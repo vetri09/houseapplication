@@ -1,0 +1,8 @@
+.content_banner {
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    width:1350px;
+    height:400px;
+    object-fit: cover;
+}

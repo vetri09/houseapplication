@@ -1,0 +1,11 @@
+
+.load_screen {
+    color: black;
+    height: 80px;
+    width: 100vw;
+    margin: auto;
+}
+.load_text {
+    text-align: center;
+    font-size: 50px;
+}

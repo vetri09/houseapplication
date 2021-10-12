@@ -1,0 +1,70 @@
+.house_box {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    width: 1350px;
+    margin:50px auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.house_img {
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.house_main_detail {
+    width: 600px;
+}
+.house_type {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.house_name {
+    font-size: 30px;
+    margin: 20px 0px;
+}
+.house_address {
+    color: gray;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.house_sec_detail {
+    width: 400px;
+}
+.house_room {
+    font-size: 17px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.house_rent {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.house_rent_span {
+    color: gray;
+    font-size: 18px;
+}
+.house_btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(187, 57, 57);
+    color: white;
+    cursor: pointer;
+}
+.house_input input, select{
+    outline: none;
+    display: block;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.errorMessage {
+    color: red;
+}
+.successMessage {
+    color: green;
+}
